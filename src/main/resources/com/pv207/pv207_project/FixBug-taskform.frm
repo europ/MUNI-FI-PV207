@@ -1,0 +1,1 @@
+{"id":"80d9c0ca-3253-4bfb-b905-5bb848bcd56d","name":"FixBug-taskform.frm","model":{"taskName":"FixBug","processId":"PV207-project.Process7","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

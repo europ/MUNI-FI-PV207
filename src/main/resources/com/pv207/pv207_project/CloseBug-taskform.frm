@@ -1,0 +1,1 @@
+{"id":"a3c870f9-0144-44a4-87b4-f42baf7bec25","name":"CloseBug-taskform.frm","model":{"taskName":"CloseBug","processId":"PV207-project.Process7","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
