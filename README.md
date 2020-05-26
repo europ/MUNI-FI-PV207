@@ -23,6 +23,6 @@ This repository contains jBPM project.
 | Name                 | UČO    | Role              |
 | :------------------- | :----: | :---------------- |
 | Adrián Tóth          | 491322 | Teamleader        |
-| Bibiána Ťureková     | 444500 | Process analyst   |
+| Bibiána Ťureková     | 444500 | Business analyst  |
 | Dominik Hlaváč Ďurán | 491323 | BPM/SOA developer |
-| Nikoleta Češeková    | 436896 | Business analyst  |
+| Nikoleta Češeková    | 436896 | Process analyst   |
